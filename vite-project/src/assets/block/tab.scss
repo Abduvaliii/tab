@@ -1,0 +1,22 @@
+.tl{
+    margin-left: 100px;
+}
+
+.active{
+    color: red;
+    border-bottom: 3px solid red;
+}
+
+.ul{
+    display: flex;
+
+    list-style-type: none;
+}
+li{
+    padding: 40px;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    cursor: pointer;
+}
